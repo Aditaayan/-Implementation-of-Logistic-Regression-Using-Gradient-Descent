@@ -24,7 +24,7 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 
 Developed by: ADITAAYAN M
 
-RegisterNumber:21222304006
+RegisterNumber:212223040006
 ```
 import pandas as pd
 import numpy as np
